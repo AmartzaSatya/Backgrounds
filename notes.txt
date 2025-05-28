@@ -1,1 +1,5 @@
 Guide to change the url :
+Original url (example) : https://github.com/AmartzaSatya/Backgrounds/blob/main/p.png
+Changed url : https://raw.githubusercontent.com/AmartzaSatya/Backgrounds/main/p.png
+
+So change github -> raw.githubusercontent
